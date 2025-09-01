@@ -1,7 +1,7 @@
 # Sukanya Gupta
 Hi 👋, I'm Sukanya Gupta
 
-- 📧 Email: sukanyaofficial121@gmail.com  |  ☎️ Phone: 8957709240 
+- 📧 Email: sukanyaofficial121@gmail.com  
 -  🚀 GitHub: Sukanya1212/Sukanya-Gupta |  <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="15" height="15"/>  linkedin.com/in/sukanyagupta121/
 </a> 
